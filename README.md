@@ -23,7 +23,7 @@ The system combines environmental sensing, automated responses, access control, 
 - Embedded C
 - Dragon12-Plus
 - MC9S12DG256 Microcontroller
-- Embedded Systems & Peripheral Interfacing
+- CodeWarrior
 - ADC & GPIO
 - Sensor Integration
 - Keypad & LCD Interfacing
