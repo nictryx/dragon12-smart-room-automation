@@ -29,11 +29,3 @@ The system combines environmental sensing, automated responses, access control, 
 - Keypad & LCD Interfacing
 - Motor, LED & Buzzer Control
 
-## Access Control
-
-The system uses a keypad to enter a 4-digit PIN.
-
-If the PIN is correct, the LCD displays:
-
-```text
-WELCOME BACK
