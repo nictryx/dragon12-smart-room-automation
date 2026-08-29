@@ -30,6 +30,6 @@ The system combines environmental sensing, automated responses, access control, 
 - Circuit Design & Hardware Integration
 - CodeWarrior IDE
 
-## Project Purpose
+## Project Goal
 
-The purpose of this project is to develop a smart room prototype that integrates environmental sensing, automated actuator control, and PIN-based access security using the MC9S12DG256 microcontroller to improve room safety and automation.
+The goal of this project is to develop a smart room prototype that integrates environmental sensing, automated actuator control, and PIN-based access security using the MC9S12DG256 microcontroller to improve room safety and automation.
