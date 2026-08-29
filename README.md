@@ -28,7 +28,7 @@ The system combines environmental sensing, automated responses, access control, 
 - Keypad & LCD Interfacing
 - Motor, LED & Buzzer Control
 - Circuit Design & Hardware Integration
-- CodeWarrior
+- CodeWarrior IDE
 
 ## Project Goal
 
